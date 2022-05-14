@@ -54,3 +54,8 @@ o	Hegymászók – Át tud menni a pálya „hegy” elemein.
 o	Úszók – Át tud úszni a pálya „folyó” és „tó” elemein.
 o	Harcosok – Ha olyan mezőre lép, ahol ellenség van, akkor megtámadja azt.
 o	Rombolók – Meg tud sebezni/Le tud rombolni tornyokat.
+# Kredit
+•	Széplaki Bence
+•	Kiss Áron Csaba
+•	Gál Gergely
+
